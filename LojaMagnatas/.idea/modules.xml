@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja Magnatas.Loja_Magnatas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja Magnatas.Loja_Magnatas.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LojaMagnatas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LojaMagnatas.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loja_Magnatas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Loja_Magnatas.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/br.com.magnatasoriginal.Loja_Magnatas.main.iml" filepath="$PROJECT_DIR$/.idea/modules/br.com.magnatasoriginal.Loja_Magnatas.main.iml" />
+    </modules>
+  </component>
+</project>

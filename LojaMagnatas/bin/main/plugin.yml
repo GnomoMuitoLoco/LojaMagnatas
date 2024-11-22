@@ -1,0 +1,30 @@
+name: LojaMagnatas
+main: br.com.magnatasoriginal.lojaMagnatas.LojaMagnatas
+version: '3.0'
+api-version: '1.20'
+authors: [GnomoMuitoLouco]
+description: Magnatas Original
+website: https://www.servidormagnatas.com.br
+commands:
+  lojas:
+    description: Mostra todas as lojas dos jogadores.
+  setloja:
+    description: Marca a loja do jogador.
+  delloja:
+    description: Deleta a loja do jogador.
+  tploja:
+    description: Teleporta para a loja de um jogador.
+permissions:
+  lojamagnatas.setloja:
+    description: Permissão para definir uma loja
+    default: true
+  lojamagnatas.delloja:
+    description: Permissão para deletar uma loja
+    default: true
+  lojamagnatas.admin:
+    description: Permissão para administrar lojas
+    default: op
+  lojamagnatas.vip:
+    description: Permissão para ignorar a espera de 5 segundos para teleportar
+    default: false
+
